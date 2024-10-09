@@ -1,5 +1,6 @@
 <?php
 
+#esto es para la ruta de la API
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
